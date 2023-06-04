@@ -10,7 +10,6 @@
 <section>
     <div>
         <div>
-            <h3>Find Your Suburb</h3>
             <h5>Search by alphabetical order:</h5>
         </div>
         <div>
